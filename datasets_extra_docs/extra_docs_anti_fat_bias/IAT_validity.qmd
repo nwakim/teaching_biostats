@@ -1,0 +1,18 @@
+---
+title: "IAT Validity Notes"
+date: "10/3/2023"
+date-modified: "10/3/2023"
+author: "Nicky Wakim"
+---
+
+There are several papers that discuss the validity of the Implicit Association Test. I want to discuss some of those claims, and see if we can still use this test in our analysis.
+
+## [Vox article](https://www.vox.com/identities/2017/3/7/14637626/implicit-association-test-racism)
+
+-   There is a lot of work that shows sweeping claims and large conclusions are debunked
+
+-   But we can make Modest claims from the IAT
+
+## [APA Feature Article](https://www.apa.org/monitor/2008/07-08/psychometric)
+
+## [Psychology Today Article](https://www.psychologytoday.com/us/blog/rabble-rouser/202203/12-reasons-be-skeptical-common-claims-about-implicit-bias)

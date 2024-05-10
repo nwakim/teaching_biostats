@@ -1,0 +1,165 @@
+---
+title: "Implicit Anti-Fat/Weight Bias"
+description: "Dataset focuses on Harvard's implicit association test results for anti-fat bias. The dataset includes measurments of implicit anti-fat bias, demographics, conscious beliefs about weight control, and conscious views towards fat people."
+date: "9/12/2023"
+date-modified: "today"
+author: "Nicky Wakim"
+categories: ["fatphobia", "linear regression"]
+bibliography: references.bib
+---
+
+::: callout-warning
+## !!CONTENT WARNING!!
+
+**This page discusses anti-fat bias. There are articles and datasets referenced that may include triggering words referring to fat people.**
+
+I use the term "fat people" as a neutral term to identify people who have larger bodies.
+
+I have chosen to use this term based on preferences voiced by fat public figures in the media. Please know that I bring my own bias to the media that I consume.
+:::
+
+Data used in my classroom were from the 2021 dataset.
+
+This dataset and framed analysis is heavily derived from a publication on implicit and explicit anti-fat bias [@elran-barak2018]. Dr. Elran-Barak and Dr. Bar-Anon approach the data with several social theoretical models and with discussion on statistical considerations and consequences. When appropriate, I will include direct quotes from the publication.
+
+## Abstract
+
+Anti-fat bias stems from specific attitudes and beliefs that stigmatize fat people as less than their thinner alternatives. Often, the bias comes from specific beliefs that weight is inherently something that can be controlled, that fat people use more resources, or that they are lazy. Thus leading to a preference for thin people over fat people. In Project Implicit's research, implicit association tests (IAT) measure the level of stereotype and preference from one demographic group over another. In their Weight IAT dataset, the implicit bias preferring thin people over fat people is measured. The primary outcome is the IAT score, which is a calculated score using Project Implicit's D600 algorithm, measuring the implicit bias through the response time [@greenwald2003]. Predictor variables include demographic variables (age, race, education, gender, and BMI) and social views (including self-perception of weight, controllability of weight, awareness of social standards, and internalization of societal standards). The raw data sample includes $n=??$ participants and a total of $??$ variables.
+
+### Basic info
+
+| Study Design | Topic                                                                           |
+|--------------|---------------------------------------------------------------------------------|
+| Survey??     | What weight-related attitudes and beliefs contribute to implicit anti-fat bias? |
+
+It is important to note that the dataset is a convenience sample. Participants are not randomly selected, but self-selected. "Recruitment occurred via media coverage, links from other sites, links provided by search engines, and word-of-mouth" [@greenwald2003]. From there, participants could choose to visit the cite and participate. This means "respondent samples for this research cannot be treated as representative of any definable population." [@greenwald2003] Also, there is no control for multiple participation. Thus, an individual can participate in the study multiple times leading to observations that are not independent. "However, the overall large number of respondents reduces the potential impact of this problem -- few, if any, single respondents could plausibly have provided as much as 0.1% (e.g., 10 in 10,000 observations) of any of the data sets." [@greenwald2003]
+
++------------------------+-----------------------------+-------------------------------------+
+| Classes/Course Content | Specific statistical topics | Specific social implications topics |
++========================+=============================+=====================================+
+| Descriptive statistics |                             |                                     |
++------------------------+-----------------------------+-------------------------------------+
+| Basic Inference        |                             |                                     |
++------------------------+-----------------------------+-------------------------------------+
+| Linear Regression      | Missingness                 |                                     |
+|                        |                             |                                     |
+|                        | Issues with independence    |                                     |
++------------------------+-----------------------------+-------------------------------------+
+
+## Contributor
+
+## Background
+
+These data are a part of Project Implicit, a non-profit organization co-founded by Dr. Mahzarin R. Banaji (Harvard University), Dr. Anthony G. Greenwald (University of Washington), and Dr. Brian Nosek (University of Virginia). The project aims to research "implicit social cognition," essentially the implicit, unconscious feelings that people have toward others [@project]. They use an Implicit Association Test (IAT) to measure "attitudes and beliefs that people may be unwilling or unable to report" with 15 different studies [@project].
+
+This dataset on anti-fat bias is derived from one of the many testing options in Project Implicit.
+
+### How the Implicit Association Test works
+
+Below is an excerpt from the [Project Implicit page](https://implicit.harvard.edu/implicit/iatdetails.html):
+
+> The IAT measures the strength of associations between concepts (e.g., black people, gay people) and evaluations (e.g., good, bad) or stereotypes (e.g., athletic, clumsy). The main idea is that making a response is easier when closely related items share the same response key.
+>
+> When doing an IAT you are asked to quickly sort words into categories that are on the left and right hand side of the computer screen by pressing the "e" key if the word belongs to the category on the left and the "i" key if the word belongs to the category on the right. The IAT has five main parts.
+>
+> In the first part of the IAT you sort words relating to the concepts (e.g., fat people, thin people) into categories. So if the category "Fat People" was on the left, and a picture of a heavy person appeared on the screen, you would press the "e" key.
+>
+> In the second part of the IAT you sort words relating to the evaluation (e.g., good, bad). So if the category "good" was on the left, and a pleasant word appeared on the screen, you would press the "e" key.
+>
+> In the third part of the IAT the categories are combined and you are asked to sort both concept and evaluation words. So the categories on the left hand side would be Fat People/Good and the categories on the right hand side would be Thin People/Bad. It is important to note that the order in which the blocks are presented varies across participants, so some people will do the Fat People/Good, Thin People/Bad part first and other people will do the Fat People/Bad, Thin People/Good part first.
+>
+> In the fourth part of the IAT the placement of the concepts switches. If the category "Fat People" was previously on the left, now it would be on the right. Importantly, the number of trials in this part of the IAT is increased in order to minimize the effects of practice.
+>
+> In the final part of the IAT the categories are combined in a way that is opposite what they were before. If the category on the left was previously Fat People/Good, it would now be Fat People/Bad.
+>
+> The IAT score is based on how long it takes a person, on average, to sort the words in the third part of the IAT versus the fifth part of the IAT. We would say that one has an implicit preference for thin people relative to fat people if they are faster to categorize words when Thin People and Good share a response key and Fat People and Bad share a response key, relative to the reverse.
+
+## Important Definitions
+
+-   **Anti-fat bias:** discrimination based on a person's body weight, specifically stigma placed on individuals deemed "fat"
+
+-   
+
+## Objective
+
+The objective of this dataset depends on the classroom in which it is used. In Linear Regression, we aim to find the association between the IAT score (outcome) and various demographics (including BMI) and weight-related attitudes and beliefs. In an Introductory course, we can examine the distribution and statistics of the IAT score itself.
+
+## Questions/Activities for Students
+
+-   **Activity:** Have the students take the test! You can go to the [Project Implicit website](https://implicit.harvard.edu/implicit/research/), register, and select a specific test to take.
+    -   Once registered, you can click "Take a Test," read the Preliminary Information, and then click "I wish to proceed" at the bottom.
+    -   Then you can click the button "Weight IAT" to take this particular test.
+-   Activity: Discuss the validity of the test (big pop culture topic)
+    -   If not generalizable to public, what claims can we make from our analysis?
+-   Activity: Discuss our independence assumption in Linear Regression
+    -   Can people take this test more than once? Are multiple tests from one person independent?
+
+## Subjects and Variables
+
+## Data Access
+
+Data can be accessed [here](https://osf.io/iay3x/). Under "Weight IAT 2004-2022" there are several drop down menus:
+
+![](images/Screenshot%202023-09-14%20at%209.56.28%20AM.png)
+
+I opened the first "Datasets & Codebooks," then selected "OSF Storage (United States)." Once selected, the "Download as zip" option pops up in the top right part of the Files section.
+
+![](images/Screenshot%202023-09-14%20at%209.57.45%20AM.png)
+
+You can download any year's dataset. All my material is drawn from the 2021 dataset.
+
+CSV and SAV (SPSS) files are available. You will need to unzip the folder and files before use. Please see my teaching materials for how I accessed the files within R.
+
+## Education on Lived Experience
+
+maybe quotes to include in class
+
+maybe websites/blogs of folks to include
+
+-   Website on BMI as an inaccurate indicator of health: <https://redefinehealthpromotion.my.canva.site/research>
+
+-   "It's extremely sh\$%ty to live in a world where people's sort of imagination of the healthiest and best world possible doesn't have people who look like me in it."
+
+    -   Aubrey Gordon, Maintenance Phase podcast, episode "The Obesity Epidemic"
+
+## Opposing Viewpoints
+
+This section may be triggering! The opposing viewpoints discuss the overutilization of implicit bias as it intersects with race and DEIJ in general.
+
+This section will introduce us to a few articles that oppose implicit bias tests (or the IAT directly). The aim of this section is to understand critics of IAT: what and how they think. This will help us thoughtfully consider their arguments and work towards parsing out the truth behind the data. If you feel up to reading these article, I highly recommend it! However, these articles discuss the invalidity of implicit bias in the context of race. If you wish to avoid exposure to racist writing, please see my bulleted synopses below.
+
+-   [Vox article](https://www.vox.com/identities/2017/3/7/14637626/implicit-association-test-racism) (2017)
+    -   *In my opinion, this article seems more level-headed than the next article*
+    -   There is a lot of work that shows sweeping claims and large conclusions from IAT are debunked
+        -   However, we can make modest claims from the IAT
+    -   The IAT should not be used on the individual level
+        -   Your individual results will vary: showing no bias, bias in one direction, and then bias in another
+        -   IAT is better used at a population level
+    -   Attempting to reduce implicit bias is not the best way to reduce racism: more structural and explicit changes need to be made
+    -   **My response to this article:**
+        -   We need note potential limitations including generalizability of IAT results
+
+        -   Need to bring IAT into context: By exposing implicit bias, we can validate experiences and promote structural changes
+-   [Psychology Today Article](https://www.psychologytoday.com/us/blog/rabble-rouser/202203/12-reasons-be-skeptical-common-claims-about-implicit-bias) (2022)
+    -   In my opinion, this article aims to be edgy and evoke an emotional response. Please read with caution.
+    -   Talks about implicit bias tests in general and also the IAT
+    -   Implicit bias does not have an agreed upon definition.
+    -   IAT measures reaction time as a poor proxy for bias
+        -   Can't help myself from making a comment: Psychology research is FULL of proxies - it is very hard to directly measure unconscious thoughts and behavior!!
+    -   **My response to this article:**
+        -   It ended up giving me a great [source of articles](https://osf.io/74whk/) that talk about the limitations of implicit bias research!
+            -   I think it's important to read articles from scholars who have issues with the measurement validity and results. This is the best way to make my research more impenetrable to criticism.
+
+## Publications
+
+Here are a few publications that have used these data. There are potentially more publications and the below publications may have used a different version of the dataset.
+
+-   [@elran-barak2018]
+
+### To do
+
+-   Edit abstract
+
+-   Keep reading!
+
+-   Gotta start incorporating into lin reg class!!

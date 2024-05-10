@@ -1,0 +1,324 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Teaching DEIJ-infused Biostatistics",
+    "section": "",
+    "text": "Some other picture for the site??\n\n\nTeaching DEIJ-infused Biostatistics\n\nA message from the creator\nI strive to make public resources for a more socially informed Biostatistics classroom. Most of my time is spent developing, improving, and teaching graduate-level biostatistics courses at Oregon Health & Science University. I create content in the classroom to improve accessibility and interest for all students. This site contains the dataset repository that connects publicly available datasets to statistics educators so that they can easily search for datasets, with included activities, to use in their classrooms. Please use these datasets responsibly. I have worked to provide unique guidelines for each dataset."
+  },
+  {
+    "objectID": "homeworks.html",
+    "href": "homeworks.html",
+    "title": "Homeworks",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "readings.html",
+    "href": "readings.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nCategories\n\n\nReading Time\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "instructors.html",
+    "href": "instructors.html",
+    "title": "Instructors",
+    "section": "",
+    "text": "Instructor: Nicole (Nicky) Wakim, PhD\n\nEmail: wakim@ohsu.edu\nOffice: VPT 622A\n\nPronouns: she/her/hers\nYou are welcome to address me as Nicky (pronounced \"nik-EE\"), Dr. Wakim (pronounced \"wah-KEEM\"), Dr. W, Dr. Nicky, Professor, Professor Wakim, or any combination of the prior.\nBest method to contact: Office hours or Slack for general course questions or E-mail/Calendly appointments for private communication.\nBrief professor statement: As a professor, my main goal is to instill a growth mindset into my students. Growth mindset means we are NOT stuck in our abilities or knowledge, and that we all can and will grow! This course aims to be as transparent as possible. I want you to understand my motivation for assessments, questions, and lessons. I also want those assessments to be clear, so please ask for clarification whenever needed.\n\nOffice Hours\n\nTuesday, 3:00 PM to 5:00 PM, Webex\n\nLink to Webex\n\nWednesday, 11:00 PM to 12:30 PM, RLSB 3A001\n\n\n\n\nTeaching Assistant 1:\n\nEmail:\n\n\nOffice Hours\n\nMonday, Thursday, 6:00 PM to 7:00 PM, Webex\n\nLink to Webex\n\n\n\nTeaching Assistant 2\n\nEmail:\n\n\nOffice Hours\n\nThursday, Friday, 10:00 AM to 11:00 AM, Webex\n\nLink to Webex"
+  },
+  {
+    "objectID": "class_slides.html",
+    "href": "class_slides.html",
+    "title": "Class Slides and Annotated Notes",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nCategories\n\n\nReading Time\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nCategories\n\n\nReading Time\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#about-this-blog",
+    "href": "index.html#about-this-blog",
+    "title": "Nicky Wakim",
+    "section": "",
+    "text": "This is the contents of the about page for my blog."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html",
+    "href": "datasets/anti_fat_bias_2023.09.12.html",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "",
+    "text": "!!CONTENT WARNING!!\n\n\n\nThis page discusses anti-fat bias. There are articles and datasets referenced that may include triggering words referring to fat people.\nI use the term “fat people” as a neutral term to identify people who have larger bodies.\nI have chosen to use this term based on preferences voiced by fat public figures in the media. Please know that I bring my own bias to the media that I consume.\nData used in my classroom were from the 2021 dataset.\nThis dataset and framed analysis is heavily derived from a publication on implicit and explicit anti-fat bias (Elran-Barak and Bar-Anan 2018). Dr. Elran-Barak and Dr. Bar-Anon approach the data with several social theoretical models and with discussion on statistical considerations and consequences. When appropriate, I will include direct quotes from the publication."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#abstract",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#abstract",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Abstract",
+    "text": "Abstract\nAnti-fat bias stems from specific attitudes and beliefs that stigmatize fat people as less than their thinner alternatives. Often, the bias comes from specific beliefs that weight is inherently something that can be controlled, that fat people use more resources, or that they are lazy. Thus leading to a preference for thin people over fat people. In Project Implicit’s research, implicit association tests (IAT) measure the level of stereotype and preference from one demographic group over another. In their Weight IAT dataset, the implicit bias preferring thin people over fat people is measured. The primary outcome is the IAT score, which is a calculated score using Project Implicit’s D600 algorithm, measuring the implicit bias through the response time (Greenwald, Nosek, and Banaji 2003). Predictor variables include demographic variables (age, race, education, gender, and BMI) and social views (including self-perception of weight, controllability of weight, awareness of social standards, and internalization of societal standards). The raw data sample includes \\(n=??\\) participants and a total of \\(??\\) variables.\n\nBasic info\n\n\n\n\n\n\n\nStudy Design\nTopic\n\n\n\n\nSurvey??\nWhat weight-related attitudes and beliefs contribute to implicit anti-fat bias?\n\n\n\nIt is important to note that the dataset is a convenience sample. Participants are not randomly selected, but self-selected. “Recruitment occurred via media coverage, links from other sites, links provided by search engines, and word-of-mouth” (Greenwald, Nosek, and Banaji 2003). From there, participants could choose to visit the cite and participate. This means “respondent samples for this research cannot be treated as representative of any definable population.” (Greenwald, Nosek, and Banaji 2003) Also, there is no control for multiple participation. Thus, an individual can participate in the study multiple times leading to observations that are not independent. “However, the overall large number of respondents reduces the potential impact of this problem – few, if any, single respondents could plausibly have provided as much as 0.1% (e.g., 10 in 10,000 observations) of any of the data sets.” (Greenwald, Nosek, and Banaji 2003)\n\n\n\n\n\n\n\n\nClasses/Course Content\nSpecific statistical topics\nSpecific social implications topics\n\n\n\n\nDescriptive statistics\n\n\n\n\nBasic Inference\n\n\n\n\nLinear Regression\nMissingness\nIssues with independence"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#contributor",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#contributor",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Contributor",
+    "text": "Contributor"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#background",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#background",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Background",
+    "text": "Background\nThese data are a part of Project Implicit, a non-profit organization co-founded by Dr. Mahzarin R. Banaji (Harvard University), Dr. Anthony G. Greenwald (University of Washington), and Dr. Brian Nosek (University of Virginia). The project aims to research “implicit social cognition,” essentially the implicit, unconscious feelings that people have toward others (“Project Implicit,” n.d.). They use an Implicit Association Test (IAT) to measure “attitudes and beliefs that people may be unwilling or unable to report” with 15 different studies (“Project Implicit,” n.d.).\nThis dataset on anti-fat bias is derived from one of the many testing options in Project Implicit.\n\nHow the Implicit Association Test works\nBelow is an excerpt from the Project Implicit page:\n\nThe IAT measures the strength of associations between concepts (e.g., black people, gay people) and evaluations (e.g., good, bad) or stereotypes (e.g., athletic, clumsy). The main idea is that making a response is easier when closely related items share the same response key.\nWhen doing an IAT you are asked to quickly sort words into categories that are on the left and right hand side of the computer screen by pressing the “e” key if the word belongs to the category on the left and the “i” key if the word belongs to the category on the right. The IAT has five main parts.\nIn the first part of the IAT you sort words relating to the concepts (e.g., fat people, thin people) into categories. So if the category “Fat People” was on the left, and a picture of a heavy person appeared on the screen, you would press the “e” key.\nIn the second part of the IAT you sort words relating to the evaluation (e.g., good, bad). So if the category “good” was on the left, and a pleasant word appeared on the screen, you would press the “e” key.\nIn the third part of the IAT the categories are combined and you are asked to sort both concept and evaluation words. So the categories on the left hand side would be Fat People/Good and the categories on the right hand side would be Thin People/Bad. It is important to note that the order in which the blocks are presented varies across participants, so some people will do the Fat People/Good, Thin People/Bad part first and other people will do the Fat People/Bad, Thin People/Good part first.\nIn the fourth part of the IAT the placement of the concepts switches. If the category “Fat People” was previously on the left, now it would be on the right. Importantly, the number of trials in this part of the IAT is increased in order to minimize the effects of practice.\nIn the final part of the IAT the categories are combined in a way that is opposite what they were before. If the category on the left was previously Fat People/Good, it would now be Fat People/Bad.\nThe IAT score is based on how long it takes a person, on average, to sort the words in the third part of the IAT versus the fifth part of the IAT. We would say that one has an implicit preference for thin people relative to fat people if they are faster to categorize words when Thin People and Good share a response key and Fat People and Bad share a response key, relative to the reverse."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#objective",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#objective",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Objective",
+    "text": "Objective\nThe objective of this dataset depends on the classroom in which it is used. In Linear Regression, we aim to find the association between the IAT score (outcome) and various demographics (including BMI) and weight-related attitudes and beliefs. In an Introductory course, we can examine the distribution and statistics of the IAT score itself."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#subjects-and-variables",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#subjects-and-variables",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Subjects and Variables",
+    "text": "Subjects and Variables"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#data",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#data",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Data",
+    "text": "Data\nData can be accessed here. Under “Weight IAT 2004-2022” there are several drop down menus:\n\nI opened the first “Datasets & Codebooks,” then selected “OSF Storage (United States).” Once selected, the “Download as zip” option pops up in the top right part of the Files section.\n\nYou can download any year’s dataset. All my material is drawn from the 2021 dataset.\nCSV and SAV (SPSS) files are available. You will need to unzip the folder and files before use. Please see my teaching materials for how I accessed the files within R."
+  },
+  {
+    "objectID": "datasets/template.html",
+    "href": "datasets/template.html",
+    "title": "Template Dataset",
+    "section": "",
+    "text": "Study Design\nTopic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses\nSpecific statistical topics\nSpecific social implications topics"
+  },
+  {
+    "objectID": "datasets/template.html#abstract",
+    "href": "datasets/template.html#abstract",
+    "title": "Template Dataset",
+    "section": "",
+    "text": "Study Design\nTopic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses\nSpecific statistical topics\nSpecific social implications topics"
+  },
+  {
+    "objectID": "datasets/template.html#contributor",
+    "href": "datasets/template.html#contributor",
+    "title": "Template Dataset",
+    "section": "Contributor",
+    "text": "Contributor"
+  },
+  {
+    "objectID": "datasets/template.html#background",
+    "href": "datasets/template.html#background",
+    "title": "Template Dataset",
+    "section": "Background",
+    "text": "Background"
+  },
+  {
+    "objectID": "datasets/template.html#objective",
+    "href": "datasets/template.html#objective",
+    "title": "Template Dataset",
+    "section": "Objective",
+    "text": "Objective"
+  },
+  {
+    "objectID": "datasets/template.html#subjects-and-variables",
+    "href": "datasets/template.html#subjects-and-variables",
+    "title": "Template Dataset",
+    "section": "Subjects and Variables",
+    "text": "Subjects and Variables"
+  },
+  {
+    "objectID": "datasets/template.html#data",
+    "href": "datasets/template.html#data",
+    "title": "Template Dataset",
+    "section": "Data",
+    "text": "Data\n\n\n\nR\nSAS\nExcel (.csv)"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#publications",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#publications",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Publications",
+    "text": "Publications\nHere are a few publications that have used these data. There are potentially more publications and the below publications may have used a different version of the dataset.\n\n(Elran-Barak and Bar-Anan 2018)\n\n\nTo do\n\nEdit abstract\nKeep reading!\nGotta start incorporating into lin reg class!!"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#questionsactivities-for-students",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#questionsactivities-for-students",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Questions/Activities for Students",
+    "text": "Questions/Activities for Students\n\nActivity: Have the students take the test! You can go to the Project Implicit website, register, and select a specific test to take.\n\nOnce registered, you can click “Take a Test,” read the Preliminary Information, and then click “I wish to proceed” at the bottom.\nThen you can click the button “Weight IAT” to take this particular test.\n\nActivity: Discuss the validity of the test (big pop culture topic)\n\nIf not generalizable to public, what claims can we make from our analysis?\n\nActivity: Discuss our independence assumption in Linear Regression\n\nCan people take this test more than once? Are multiple tests from one person independent?"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#important-definitions",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#important-definitions",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Important Definitions",
+    "text": "Important Definitions\n\nAnti-fat bias: discrimination based on a person’s body weight, specifically stigma placed on individuals deemed “fat”"
+  },
+  {
+    "objectID": "index.html#sheherhers",
+    "href": "index.html#sheherhers",
+    "title": "Nicky Wakim",
+    "section": "",
+    "text": "“mailto:wakim@ohsu.edu”\n\n“https://scholar.google.com/citations?user=3pA9LmIAAAAJ&hl=en”"
+  },
+  {
+    "objectID": "blog_prof.html",
+    "href": "blog_prof.html",
+    "title": "Blog: my first two years",
+    "section": "",
+    "text": "Please note that I am an Assistant Professor of Biostatistics at a School of Public Health. The school I work at is a joint SPH between OHSU and PSU. OHSU is a medical institute and PSU is university —. While my title is Assistant Professor like any other in my institution, my FTE is split a little differently. Currently, the majority of my time is allocated for teaching, including course prep, teaching, pedagogy research, and curriculum reframing.\n\nbooks that helped my teaching\nwhat I learned prepping my first course\nusign quarto to make a class website\nmentoring students\nmake friends with all\nTeaching a course for the first time: Balancing pedagogy needs and my time/sanity\nFaculty Success Program: why I recommend it\n\n\n\n\n\n\n\n\n\n\n\nBalancing Life While Teaching a New Course\n\n\n\n\n\n\n\nharmony\n\n\n \n\n\n\n\nOct 3, 2023\n\n\n1 min\n\n\n\n\n\n\n\n\nBooks that help with Pedagogy for (Bio)statisticians\n\n\n\n\n\n\n\nbooks\n\n\n \n\n\n\n\nOct 3, 2023\n\n\n1 min\n\n\n\n\n\n\n\n\nBooks to help understand your students\n\n\n\n\n\n\n\nbooks\n\n\n \n\n\n\n\nOct 3, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/Books_pedagogy.html",
+    "href": "blog/Books_pedagogy.html",
+    "title": "Books that help with Pedagogy for (Bio)statisticians",
+    "section": "",
+    "text": "In the course of my first year teaching, I have found a few books to be helpful as I try to develop my pedagogy philosophy and learn from great teaching (bio)statisticians. This is not a unique list. There are plenty of universities with Teaching and LEarning Centers that publish list of books to read. For example, see University of Colorado: Boulder’s list.\nThis is a compilation of book recommendations that I received from more experienced teaching statisticians. The books I list specifically spoke to me, a half-white half-Arab cis woman. This list is separate from my list of books to read to help you understand your students.\nI’d like to present a living list of books that inspired, taught, and enlightened me."
+  },
+  {
+    "objectID": "blog/Books_empathy.html",
+    "href": "blog/Books_empathy.html",
+    "title": "Books to help understand your students",
+    "section": "",
+    "text": "In the course of my first year teaching, I have found a few books to be helpful as I try to"
+  },
+  {
+    "objectID": "blog/Books_pedagogy.html#books-im-looking-forward-to-reading",
+    "href": "blog/Books_pedagogy.html#books-im-looking-forward-to-reading",
+    "title": "Books that help with Pedagogy for (Bio)statisticians",
+    "section": "Books I’m Looking Forward to Reading",
+    "text": "Books I’m Looking Forward to Reading\n\nGrading for Equity by Joe Feldman\n\n\nFlipped Learning by Robert Talbert\n\n\nTeach Students How to Learn by Stephanie and Saundra McGuire\n\n\nSmall Teaching by James M. Lang"
+  },
+  {
+    "objectID": "blog/Books_pedagogy.html#books-ive-read-and-like",
+    "href": "blog/Books_pedagogy.html#books-ive-read-and-like",
+    "title": "Books that help with Pedagogy for (Bio)statisticians",
+    "section": "Books I’ve Read and Like",
+    "text": "Books I’ve Read and Like\n\nLearning and Teaching While White by Elizabeth Denevi and Jenna Chandler-Ward\n\n\nUNgrading by Susan D. Blum"
+  },
+  {
+    "objectID": "blog/Books_pedagogy.html#books-i-just-heard-about-at-a-conference",
+    "href": "blog/Books_pedagogy.html#books-i-just-heard-about-at-a-conference",
+    "title": "Books that help with Pedagogy for (Bio)statisticians",
+    "section": "Books I Just Heard about at a Conference",
+    "text": "Books I Just Heard about at a Conference"
+  },
+  {
+    "objectID": "blog/Course_1st_Time.html",
+    "href": "blog/Course_1st_Time.html",
+    "title": "Balancing Life While Teaching a New Course",
+    "section": "",
+    "text": "grapple with wanting to give my students the best course and use all the current pedagogy work to make my class excellent.\nBut when you are teaching a course for the first time, it is very time consuming!! How do you get everything done?? You don’t!"
+  },
+  {
+    "objectID": "datasets/extra_docs_anti_fat_bias/IAT_validity.html",
+    "href": "datasets/extra_docs_anti_fat_bias/IAT_validity.html",
+    "title": "IAT Validity Notes",
+    "section": "",
+    "text": "There are several papers that discuss the validity of the Implicit Association Test. I want to discuss some of those claims, and see if we can still use this test in our analysis."
+  },
+  {
+    "objectID": "datasets/extra_docs_anti_fat_bias/IAT_validity.html#vox-article",
+    "href": "datasets/extra_docs_anti_fat_bias/IAT_validity.html#vox-article",
+    "title": "IAT Validity Notes",
+    "section": "Vox article",
+    "text": "Vox article\n\nThere is a lot of work that shows sweeping claims and large conclusions are debunked\nBut we can make Modest claims from the IAT"
+  },
+  {
+    "objectID": "datasets/extra_docs_anti_fat_bias/IAT_validity.html#apa-feature-article",
+    "href": "datasets/extra_docs_anti_fat_bias/IAT_validity.html#apa-feature-article",
+    "title": "IAT Validity Notes",
+    "section": "APA Feature Article",
+    "text": "APA Feature Article"
+  },
+  {
+    "objectID": "datasets/extra_docs_anti_fat_bias/IAT_validity.html#psychology-today-article",
+    "href": "datasets/extra_docs_anti_fat_bias/IAT_validity.html#psychology-today-article",
+    "title": "IAT Validity Notes",
+    "section": "Psychology Today Article",
+    "text": "Psychology Today Article"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#experience-education",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#experience-education",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Experience Education",
+    "text": "Experience Education\nmaybe quotes to include in class\nmaybe websites/blogs of folks to include\n\n“It’s extremely sh$%ty to live in a world where people’s sort of imagination of the healthiest and best world possible doesn’t have people who look like me in it.”\n\nAubrey Gordon, Maintenance Phase podcast, episode “The Obesity Epidemic”"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#education-on-lived-experience",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#education-on-lived-experience",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Education on Lived Experience",
+    "text": "Education on Lived Experience\nmaybe quotes to include in class\nmaybe websites/blogs of folks to include\n\nWebsite on BMI as an inaccurate indicator of health: https://redefinehealthpromotion.my.canva.site/research\n“It’s extremely sh$%ty to live in a world where people’s sort of imagination of the healthiest and best world possible doesn’t have people who look like me in it.”\n\nAubrey Gordon, Maintenance Phase podcast, episode “The Obesity Epidemic”"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#opposing-viewpoints",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#opposing-viewpoints",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Opposing Viewpoints",
+    "text": "Opposing Viewpoints\nThis section may be triggering! The opposing viewpoints discuss the overutilization of implicit bias as it intersects with race and DEIJ in general.\nThis section will introduce us to a few articles that oppose implicit bias tests (or the IAT directly). The aim of this section is to understand critics of IAT: what and how they think. This will help us thoughtfully consider their arguments and work towards parsing out the truth behind the data. If you feel up to reading these article, I highly recommend it! However, these articles discuss the invalidity of implicit bias in the context of race. If you wish to avoid exposure to racist writing, please see my bulleted synopses below.\n\nVox article (2017)\n\nIn my opinion, this article seems more level-headed than the next article\nThere is a lot of work that shows sweeping claims and large conclusions from IAT are debunked\n\nHowever, we can make modest claims from the IAT\n\nThe IAT should not be used on the individual level\n\nYour individual results will vary: showing no bias, bias in one direction, and then bias in another\nIAT is better used at a population level\n\nAttempting to reduce implicit bias is not the best way to reduce racism: more structural and explicit changes need to be made\nMy response to this article:\n\nWe need note potential limitations including generalizability of IAT results\nNeed to bring IAT into context: By exposing implicit bias, we can validate experiences and promote structural changes\n\n\nPsychology Today Article (2022)\n\nIn my opinion, this article aims to be edgy and evoke an emotional response. Please read with caution.\nTalks about implicit bias tests in general and also the IAT\nImplicit bias does not have an agreed upon definition.\nIAT measures reaction time as a poor proxy for bias\n\nCan’t help myself from making a comment: Psychology research is FULL of proxies - it is very hard to directly measure unconscious thoughts and behavior!!\n\nMy response to this article:\n\nIt ended up giving me a great source of articles that talk about the limitations of implicit bias research!\n\nI think it’s important to read articles from scholars who have issues with the measurement validity and results. This is the best way to make my research more impenetrable to criticism."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#data-access",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#data-access",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Data Access",
+    "text": "Data Access\nData can be accessed here. Under “Weight IAT 2004-2022” there are several drop down menus:\n\nI opened the first “Datasets & Codebooks,” then selected “OSF Storage (United States).” Once selected, the “Download as zip” option pops up in the top right part of the Files section.\n\nYou can download any year’s dataset. All my material is drawn from the 2021 dataset.\nCSV and SAV (SPSS) files are available. You will need to unzip the folder and files before use. Please see my teaching materials for how I accessed the files within R."
+  },
+  {
+    "objectID": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html",
+    "href": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html",
+    "title": "IAT Validity Notes",
+    "section": "",
+    "text": "There are several papers that discuss the validity of the Implicit Association Test. I want to discuss some of those claims, and see if we can still use this test in our analysis."
+  },
+  {
+    "objectID": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#vox-article",
+    "href": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#vox-article",
+    "title": "IAT Validity Notes",
+    "section": "Vox article",
+    "text": "Vox article\n\nThere is a lot of work that shows sweeping claims and large conclusions are debunked\nBut we can make Modest claims from the IAT"
+  },
+  {
+    "objectID": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#apa-feature-article",
+    "href": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#apa-feature-article",
+    "title": "IAT Validity Notes",
+    "section": "APA Feature Article",
+    "text": "APA Feature Article"
+  },
+  {
+    "objectID": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#psychology-today-article",
+    "href": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#psychology-today-article",
+    "title": "IAT Validity Notes",
+    "section": "Psychology Today Article",
+    "text": "Psychology Today Article"
+  },
+  {
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Teaching Dataset Repository",
+    "section": "",
+    "text": "Using these datasets in your classroom\n\n\n\nIf you are speaking about social issues and you have not experienced the consequences/oppression/bias associated with the issue, please take time to educate yourself on the experiences of folks who have. Within each dataset page, I have included some references to get you started on this.\nThis repository is not meant to be the only resource or attempt to do the work of other, existing resources. There are many wonderful, socially inclined resources (like ICSPR) and statistically inclined resources, and teaching inclined resources. I hope to connect these three areas to make a repository that helps connect professors teaching statistics with statistical lessons and activities using socially motivated datasets that are publicly available.\nPlease note that I am NOT formally trained in the social sciences. For many of these datasets, I have asked colleagues who are experts in the respective fields to collaborate and critique my work.\nFinally, I am only ONE person. I am most certainly bringing bias into this work. I have tried to counter my bias by collaborating with others, incorporating others’ experiences, and researching various opinions. I encourage you to question my statements and perform your own research on each dataset."
+  },
+  {
+    "objectID": "datasets.html#dataset-pages",
+    "href": "datasets.html#dataset-pages",
+    "title": "Teaching Dataset Repository",
+    "section": "Dataset Pages",
+    "text": "Dataset Pages\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nImplicit Anti-Fat/Weight Bias\n\n\n13 min\n\n\n\nfatphobia\n\n\nlinear regression\n\n\n\nDataset focuses on Harvard’s implicit association test results for anti-fat bias. The dataset includes measurments of implicit anti-fat bias, demographics, conscious beliefs…\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n\n\n\n\n\nTemplate Dataset\n\n\n2 min\n\n\n\ncategory 1\n\n\ncategory 2\n\n\n\nhere is a description of the dataset!!\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n \n \n \n\nMy Notes for moving forward (not to be published)\n\nWould like to publish this in: Journal of Statistics and Data Science Education or Statistics Education Rresearch Journal\nNeed to publish the site before making a subscribe button!!\nFigure out how to sort datasets by lesson and/or social topic\n\n\nPotentially good datasets from ICPSR:\n\nBehavioral Interventions to Advance Self-Sufficiency (BIAS) project\nNational Survey of Health Attitudes, [United States], 2018 (ICPSR 37633)\n\nWith paper\nPaper uses logistic regression - collapses ordered Likert-type scale into two categories\n\nCompare the two options? logistic regression and ordinal logistic regresson\n\nWould we get different results? Which is more interpretable? When is a convenient choice worth making and how do we justify our choice?\n\n\n\nSocial Adversity, Sleep Characteristics, and Elevated Blood Pressure Among Young Adult Black Females\n\nhttps://www.icpsr.umich.edu/web/ICPSR/studies/21600\n\nNational Longitudinal Survey of Public Health Systems (NALSYS), [United States], 1998-2018 (ICPSR 23420)\n\nWith paper on longitudinal data\nLogistic regression?\n\nA quantitative exploration of Queer-spectrum students’ experiences in introductory undergraduate mathematics courses\nWalking and Social Reminiscence in Gentrifying Neighborhoods: Feasibility and Impact on Cognitive, Physical, and Mental Health Among Older Black Adults in the SHARP Study\n\n\n\nPotential social topics for datasets:\n\nAnti-fat bias (Debbie?)\nPrison abolition? (Yves?)\nHealth equity focused on race\nPrecarious work, health, income\nSubstance use disorders? (Robin Baker?)\nNeurodiversity\nHealth equity and agency over one’s health in Native American communities?\n\nPerhaps something with taking care back to the community?\nImportant to be sensitive around issues/history around publicly available data\nJodi gave you data for BSTA 511 analysis!!!\n\nSome work on women’s health and improving research for female bodied people??"
+  }
+]

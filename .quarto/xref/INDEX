@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "1ca6984e"
+  },
+  "teaching.qmd": {
+    "teaching.html": "d129936c"
+  },
+  "datasets.qmd": {
+    "datasets.html": "c33ae973"
+  },
+  "datasets/anti_fat_bias_2023.09.12.qmd": {
+    "anti_fat_bias_2023.09.12.html": "60434e2d"
+  },
+  "index.qmd": {
+    "index.html": "2e44d9d4"
+  },
+  "resources.qmd": {
+    "resources.html": "2144f686"
+  },
+  "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.qmd": {
+    "IAT_validity.html": "5dc86cc0"
+  },
+  "datasets/template.qmd": {
+    "template.html": "f0bed230"
+  }
+}

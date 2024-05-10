@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/homeworks.html",
+    "items": []
+  },
+  {
+    "listing": "/readings.html",
+    "items": []
+  },
+  {
+    "listing": "/class_slides.html",
+    "items": []
+  },
+  {
+    "listing": "/teaching.html",
+    "items": []
+  },
+  {
+    "listing": "/datasets.html",
+    "items": [
+      "/datasets/anti_fat_bias_2023.09.12.html",
+      "/datasets/template.html"
+    ]
+  },
+  {
+    "listing": "/blog_prof.html",
+    "items": [
+      "/blog/Course_1st_Time.html",
+      "/blog/Books_pedagogy.html",
+      "/blog/Books_empathy.html"
+    ]
+  }
+]

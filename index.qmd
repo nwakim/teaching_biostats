@@ -1,0 +1,29 @@
+---
+title: ""
+toc: false
+sidebar: false
+page-layout: full
+link-external-newwindow: true
+---
+
+::: grid
+::: g-col-1
+:::
+
+::: g-col-5
+Some other picture for the site??
+:::
+
+::: g-col-6
+# Teaching DEIJ-infused Biostatistics
+
+### A message from the creator
+
+**I strive to make public resources for a more socially informed Biostatistics classroom.** Most of my time is spent developing, improving, and teaching graduate-level biostatistics courses at Oregon Health & Science University. I create content in the classroom to improve accessibility and interest for all students. This site contains the dataset repository that connects publicly available datasets to statistics educators so that they can easily search for datasets, with included activities, to use in their classrooms. **Please use these datasets responsibly. I have worked to provide unique guidelines for each dataset.**
+:::
+:::
+
+```{r}
+#| echo: false
+g=3
+```

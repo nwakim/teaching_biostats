@@ -12,7 +12,6 @@ margin-header: signup.html
 :::
 
 ::: g-col-5
-Some other picture for the site??
 :::
 
 ::: g-col-6

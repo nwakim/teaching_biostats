@@ -116,14 +116,14 @@
     "href": "datasets/template.html",
     "title": "Template Dataset",
     "section": "",
-    "text": "Study Design\nTopic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses\nSpecific statistical topics\nSpecific social implications topics"
+    "text": "!!CONTENT WARNING!!"
   },
   {
     "objectID": "datasets/template.html#abstract",
     "href": "datasets/template.html#abstract",
     "title": "Template Dataset",
-    "section": "",
-    "text": "Study Design\nTopic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses\nSpecific statistical topics\nSpecific social implications topics"
+    "section": "Abstract",
+    "text": "Abstract\n\nBasic info\n\n\n\nStudy Design\nTopic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses/Course Content\nSpecific statistical topics\nSpecific social implications topics"
   },
   {
     "objectID": "datasets/template.html#contributor",
@@ -179,6 +179,132 @@
     "href": "datasets.html#dataset-pages",
     "title": "Teaching Dataset Repository",
     "section": "Dataset Pages",
-    "text": "Dataset Pages\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nImplicit Anti-Fat/Weight Bias\n\n\n13 min\n\n\n\nfatphobia\n\n\nlinear regression\n\n\n\nDataset focuses on Harvard’s implicit association test results for anti-fat bias. The dataset includes measurments of implicit anti-fat bias, demographics, conscious beliefs…\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n\n\n\n\n\nTemplate Dataset\n\n\n2 min\n\n\n\ncategory 1\n\n\ncategory 2\n\n\n\nhere is a description of the dataset!!\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n \n \n \n\nMy Notes for moving forward (not to be published)\n\nWould like to publish this in: Journal of Statistics and Data Science Education or Statistics Education Rresearch Journal\nNeed to publish the site before making a subscribe button!!\nFigure out how to sort datasets by lesson and/or social topic\n\n\nPotentially good datasets from ICPSR:\n\nBehavioral Interventions to Advance Self-Sufficiency (BIAS) project\nNational Survey of Health Attitudes, [United States], 2018 (ICPSR 37633)\n\nWith paper\nPaper uses logistic regression - collapses ordered Likert-type scale into two categories\n\nCompare the two options? logistic regression and ordinal logistic regresson\n\nWould we get different results? Which is more interpretable? When is a convenient choice worth making and how do we justify our choice?\n\n\n\nSocial Adversity, Sleep Characteristics, and Elevated Blood Pressure Among Young Adult Black Females\n\nhttps://www.icpsr.umich.edu/web/ICPSR/studies/21600\n\nNational Longitudinal Survey of Public Health Systems (NALSYS), [United States], 1998-2018 (ICPSR 23420)\n\nWith paper on longitudinal data\nLogistic regression?\n\nA quantitative exploration of Queer-spectrum students’ experiences in introductory undergraduate mathematics courses\nWalking and Social Reminiscence in Gentrifying Neighborhoods: Feasibility and Impact on Cognitive, Physical, and Mental Health Among Older Black Adults in the SHARP Study\n\n\n\nPotential social topics for datasets:\n\nAnti-fat bias (Debbie?)\nPrison abolition? (Yves?)\nHealth equity focused on race\nPrecarious work, health, income\nSubstance use disorders? (Robin Baker?)\nNeurodiversity\nHealth equity and agency over one’s health in Native American communities?\n\nPerhaps something with taking care back to the community?\nImportant to be sensitive around issues/history around publicly available data\nJodi gave you data for BSTA 511 analysis!!!\n\nSome work on women’s health and improving research for female bodied people??"
+    "text": "Dataset Pages\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nFood Insecurity\n\n\n2 min\n\n\n\ncategory 1\n\n\ncategory 2\n\n\n\nhere is a description of the dataset!!\n\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n\nImplicit Anti-Fat/Weight Bias\n\n\n13 min\n\n\n\nfatphobia\n\n\nlinear regression\n\n\n\nDataset focuses on Harvard’s implicit association test results for anti-fat bias. The dataset includes measurments of implicit anti-fat bias, demographics, conscious beliefs…\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n\n\n\n\n\nTemplate Dataset\n\n\n2 min\n\n\n\ncategory 1\n\n\ncategory 2\n\n\n\nhere is a description of the dataset!!\n\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n \n \n \n\nMy Notes for moving forward (not to be published)\n\nWould like to publish this in: Journal of Statistics and Data Science Education or Statistics Education Rresearch Journal\nNeed to publish the site before making a subscribe button!!\nFigure out how to sort datasets by lesson and/or social topic\n\n\nPotentially good datasets from ICPSR:\n\nBehavioral Interventions to Advance Self-Sufficiency (BIAS) project\nNational Survey of Health Attitudes, [United States], 2018 (ICPSR 37633)\n\nWith paper\nPaper uses logistic regression - collapses ordered Likert-type scale into two categories\n\nCompare the two options? logistic regression and ordinal logistic regresson\n\nWould we get different results? Which is more interpretable? When is a convenient choice worth making and how do we justify our choice?\n\n\n\nSocial Adversity, Sleep Characteristics, and Elevated Blood Pressure Among Young Adult Black Females\n\nhttps://www.icpsr.umich.edu/web/ICPSR/studies/21600\n\nNational Longitudinal Survey of Public Health Systems (NALSYS), [United States], 1998-2018 (ICPSR 23420)\n\nWith paper on longitudinal data\nLogistic regression?\n\nA quantitative exploration of Queer-spectrum students’ experiences in introductory undergraduate mathematics courses\nWalking and Social Reminiscence in Gentrifying Neighborhoods: Feasibility and Impact on Cognitive, Physical, and Mental Health Among Older Black Adults in the SHARP Study\n\n\n\nPotential social topics for datasets:\n\nAnti-fat bias (Debbie?)\nPrison abolition? (Yves?)\nHealth equity focused on race\nPrecarious work, health, income\nSubstance use disorders? (Robin Baker?)\nNeurodiversity\nHealth equity and agency over one’s health in Native American communities?\n\nPerhaps something with taking care back to the community?\nImportant to be sensitive around issues/history around publicly available data\nJodi gave you data for BSTA 511 analysis!!!\n\nSome work on women’s health and improving research for female bodied people??"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html",
+    "href": "datasets/food_insecurity.html",
+    "title": "Food Insecurity",
+    "section": "",
+    "text": "!!CONTENT WARNING!!"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#abstract",
+    "href": "datasets/food_insecurity.html#abstract",
+    "title": "Food Insecurity",
+    "section": "Abstract",
+    "text": "Abstract\n\nBasic info\n\n\n\nStudy Design\nTopic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses/Course Content\nSpecific statistical topics\nSpecific social implications topics"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#contributor",
+    "href": "datasets/food_insecurity.html#contributor",
+    "title": "Food Insecurity",
+    "section": "Contributor",
+    "text": "Contributor"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#background",
+    "href": "datasets/food_insecurity.html#background",
+    "title": "Food Insecurity",
+    "section": "Background",
+    "text": "Background"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#important-definitions",
+    "href": "datasets/food_insecurity.html#important-definitions",
+    "title": "Food Insecurity",
+    "section": "Important Definitions",
+    "text": "Important Definitions"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#objective",
+    "href": "datasets/food_insecurity.html#objective",
+    "title": "Food Insecurity",
+    "section": "Objective",
+    "text": "Objective"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#questionsactivities-for-students",
+    "href": "datasets/food_insecurity.html#questionsactivities-for-students",
+    "title": "Food Insecurity",
+    "section": "Questions/Activities for Students",
+    "text": "Questions/Activities for Students"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#subjects-and-variables",
+    "href": "datasets/food_insecurity.html#subjects-and-variables",
+    "title": "Food Insecurity",
+    "section": "Subjects and Variables",
+    "text": "Subjects and Variables"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#data-access",
+    "href": "datasets/food_insecurity.html#data-access",
+    "title": "Food Insecurity",
+    "section": "Data Access",
+    "text": "Data Access"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#education-on-lived-experience",
+    "href": "datasets/food_insecurity.html#education-on-lived-experience",
+    "title": "Food Insecurity",
+    "section": "Education on Lived Experience",
+    "text": "Education on Lived Experience"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#opposing-viewpoints",
+    "href": "datasets/food_insecurity.html#opposing-viewpoints",
+    "title": "Food Insecurity",
+    "section": "Opposing Viewpoints",
+    "text": "Opposing Viewpoints"
+  },
+  {
+    "objectID": "datasets/food_insecurity.html#publications",
+    "href": "datasets/food_insecurity.html#publications",
+    "title": "Food Insecurity",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "datasets/template.html#important-definitions",
+    "href": "datasets/template.html#important-definitions",
+    "title": "Template Dataset",
+    "section": "Important Definitions",
+    "text": "Important Definitions"
+  },
+  {
+    "objectID": "datasets/template.html#questionsactivities-for-students",
+    "href": "datasets/template.html#questionsactivities-for-students",
+    "title": "Template Dataset",
+    "section": "Questions/Activities for Students",
+    "text": "Questions/Activities for Students"
+  },
+  {
+    "objectID": "datasets/template.html#data-access",
+    "href": "datasets/template.html#data-access",
+    "title": "Template Dataset",
+    "section": "Data Access",
+    "text": "Data Access"
+  },
+  {
+    "objectID": "datasets/template.html#education-on-lived-experience",
+    "href": "datasets/template.html#education-on-lived-experience",
+    "title": "Template Dataset",
+    "section": "Education on Lived Experience",
+    "text": "Education on Lived Experience"
+  },
+  {
+    "objectID": "datasets/template.html#opposing-viewpoints",
+    "href": "datasets/template.html#opposing-viewpoints",
+    "title": "Template Dataset",
+    "section": "Opposing Viewpoints",
+    "text": "Opposing Viewpoints"
+  },
+  {
+    "objectID": "datasets/template.html#publications",
+    "href": "datasets/template.html#publications",
+    "title": "Template Dataset",
+    "section": "Publications",
+    "text": "Publications"
   }
 ]

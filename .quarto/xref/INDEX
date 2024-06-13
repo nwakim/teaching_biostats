@@ -22,5 +22,8 @@
   },
   "datasets/template.qmd": {
     "template.html": "f0bed230"
+  },
+  "datasets/food_insecurity.qmd": {
+    "food_insecurity.html": "dc447866"
   }
 }

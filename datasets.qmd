@@ -1,9 +1,9 @@
 ---
 title: "Teaching Dataset Repository"
+page-layout: full
+margin-header: signup.html
 format: 
-  html:
-    page-layout: full
-    margin-header: signup.html
+  html: 
     listing: 
       - id: datasets
         contents: datasets
@@ -13,6 +13,7 @@ format:
         filter-ui: true
         categories: true
         feed: true
+    toc: false
 ---
 
 ::: callout-caution
@@ -42,13 +43,13 @@ This repository is not meant to be the only resource or attempt to do the work o
 
  
 
-### My Notes for moving forward (not to be published)
+### My Notes for moving forward (not to be published) {.hidden}
 
 -   Would like to publish this in: Journal of Statistics and Data Science Education or Statistics Education Rresearch Journal
 -   Need to publish the site before making a subscribe button!!
 -   Figure out how to sort datasets by lesson and/or social topic
 
-#### Potentially good datasets from ICPSR:
+#### Potentially good datasets from ICPSR: {.hidden}
 
 -   [Behavioral Interventions to Advance Self-Sufficiency (BIAS) project](https://www.icpsr.umich.edu/web/ICPSR/studies/38319)
 
@@ -73,7 +74,7 @@ This repository is not meant to be the only resource or attempt to do the work o
 
 -   [Walking and Social Reminiscence in Gentrifying Neighborhoods: Feasibility and Impact on Cognitive, Physical, and Mental Health Among Older Black Adults in the SHARP Study](https://doi.org/10.1093/geront/gnae019)
 
-#### Potential social topics for datasets:
+#### Potential social topics for datasets: {.hidden}
 
 -   Anti-fat bias (Debbie?)
 -   Prison abolition? (Yves?)
